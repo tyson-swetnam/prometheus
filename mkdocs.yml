@@ -13,6 +13,10 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 # Page tree
 nav:
   - Home: index.md
+  - Cyberinfrastructure: 
+    - CyVerse: cyverse.md
+    - Terraform: terraform.md
+    - Docker: docker.md
   - Code: 
     - Jupyter: ipynb.md
     - PDAL: pdal.md
