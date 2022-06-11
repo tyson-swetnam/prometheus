@@ -14,18 +14,18 @@ copyright: 'Copyright &copy; 2022 Tyson Lee Swetnam'
 nav:
   - Home: index.md
   - Cyberinfrastructure: 
-    - CyVerse: cyverse.md
-    - Terraform: terraform.md
-    - Docker: docker.md
+    - CyVerse: infrastructure/cyverse.md
+    - Terraform: infrastructure/terraform.md
+    - Docker: infrastructure/docker.md
   - Code: 
-    - Jupyter: ipynb.md
-    - PDAL: pdal.md
-    - GDAL: gdal.md
-    - STAC: stac.md
+    - Jupyter: code/ipynb.md
+    - PDAL: code/pdal.md
+    - GDAL: code/gdal.md
+    - STAC: code/stac.md
   - Data:
-    - USGS 3DEP: 3dep.md
-    - Google Earth Engine: gee.md
-    - Planetary Computer: pc.md
+    - USGS 3DEP: data/3dep.md
+    - Google Earth Engine: data/gee.md
+    - Planetary Computer: data/pc.md
 
 # Configuration
 
